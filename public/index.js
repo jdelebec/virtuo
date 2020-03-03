@@ -158,6 +158,8 @@ const actors = [{
   }]
 }];
 
+
 console.log(cars);
 console.log(rentals);
 console.log(actors);
+console.log("affichage reussi");
